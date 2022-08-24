@@ -1,6 +1,5 @@
 git add .
-git commit -m "message"
-git push origin <branch name>
+git commit -m 
+git push origin 
 git clone
-git branch <branch name>
-git status
+git branch 
